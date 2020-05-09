@@ -284,6 +284,4 @@ ps：捐赠建议附上注册用户名<br>
 ## 💖Star趋势
 
 
-[![Stargazers over time](https://starchart.cc/wineen/smarGate.svg)](https://starchart.cc/wineen/smarGate)
-[![Stargazers over time](https://starchart.cc/shmilylty/OneForAll.svg)](https://starchart.cc/shmilylty/OneForAll)
-[![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
+[![Stargazers over time](https://starchart.cc/lazy-luo/smarGate.svg)](https://starchart.cc/lazy-luo/smarGate)
