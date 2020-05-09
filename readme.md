@@ -280,3 +280,10 @@ ps：捐赠建议附上注册用户名<br>
 【重要提示】v0.14版本将于之前版本不兼容，请务必更新版本！！！<br>
 ### ....初始版本v0.13<br>
 </details>
+
+## 💖Star趋势
+
+
+[![Stargazers over time](https://starchart.cc/wineen/smarGate.svg)](https://starchart.cc/wineen/smarGate)
+[![Stargazers over time](https://starchart.cc/shmilylty/OneForAll.svg)](https://starchart.cc/shmilylty/OneForAll)
+[![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
